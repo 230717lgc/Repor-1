@@ -2,7 +2,7 @@
 def add(a, b):
     return a + b
 
-# Function for subtraction
+# Function for subtraction ### please eliminate the subtraction 
 def subtract(a, b):
     return a - b
 
